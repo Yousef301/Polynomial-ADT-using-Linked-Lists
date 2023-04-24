@@ -4,8 +4,8 @@ Your program should be able to read a file of polynomials called equations.txt a
 
 Example of input file:
 
-2x^7+10x^5-10x^3+2x+1
--15x^7-10x^5+90x^2-2
-2x^2+x-1
+2x^7+10x^5-10x^3+2x+1\n
+-15x^7-10x^5+90x^2-2\n
+2x^2+x-1\n
 
 Upon user selection, the application should show the output of the operation performed (i.e., Addition, Subtraction, or Multiplication). The user then should have an option to enter a value of the variable term in the equation to substitute.
